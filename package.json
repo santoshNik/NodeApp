@@ -14,5 +14,9 @@
     "express"
   ],
   "author": "santosh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {}
 }
